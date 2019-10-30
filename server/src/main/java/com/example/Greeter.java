@@ -9,9 +9,10 @@ public class Greeter {
   public Greeter() {
 
   }
-/**
-* Méthode javadoc test jenkins
-*/
+  /**
+ * @param someone
+ * @return
+ */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
