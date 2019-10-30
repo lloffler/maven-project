@@ -3,11 +3,13 @@
 */
 package com.example;
 
-
+/**
+* Class greeter.
+*/
 public class Greeter {
 
   /**
-  * Constructeur javadoc test jenkins
+  * Constructeur javadoc test jenkins.
   */
   public Greeter() {
 
