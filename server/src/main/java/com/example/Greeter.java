@@ -1,3 +1,6 @@
+/**
+* com.exemple package test
+*/
 package com.example;
 
 
